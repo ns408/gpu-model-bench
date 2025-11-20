@@ -8,7 +8,7 @@ This repository provides a production-ready Python script for running and benchm
 - **Benchmarking**: Measures execution time, CPU/RAM delta, VRAM usage, and FPS (for videos).
 - **Configuration**: YAML-based config for easy customization.
 - **Error Handling**: Logging and exception decorators for robustness.
-- **Tested On**: NVIDIA GeForce RTX 5090 with 32GB VRAM (compatible with other CUDA-capable GPUs).
+- ~**Tested On**: NVIDIA GeForce RTX 5090 with 32GB VRAM (compatible with other CUDA-capable GPUs).~
 
 ## Requirements
 Install dependencies using the provided `requirements.txt`:
